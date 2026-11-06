@@ -7,7 +7,7 @@
 I enjoy building practical software, learning how systems work, and turning ideas into useful products.
  
 [![GitHub](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=github)](https://github.com/Novidh-Pohekar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarthak-nimble1642)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Novidh pohekar)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sarthknimble@outlook.com)
  
 </div>
