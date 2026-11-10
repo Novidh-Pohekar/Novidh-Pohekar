@@ -113,6 +113,7 @@ I'm interested in:
 - Cybersecurity and secure software projects
 - Hackathons, startup ideas, and building products
 - AI/ML and data science projects
+
  
 📫 **Email:** [novidh.pohekar@gmail.com](mailto:novidh.pohekar@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/novidh-pohekar-3b2892226](http://Linkedin.com/in/novidh-pohekar-3b2892226)    
