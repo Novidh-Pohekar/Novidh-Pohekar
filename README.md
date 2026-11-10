@@ -73,15 +73,9 @@ I value continuous learning, clean code, teamwork, and building projects that so
 - **DIMS** — Departmental Inventory management system exploring inventory software and hardware integration.
 - **MakeMyProduct** — built AI-Ml system for finding best product for customer out of 1500 of design configuration.
 - **VMS001** — Vendor management system for finding out best vendor for present and upcoming project.
-- 
- 
-### Agri-tech, Dairy-tech & Innovation
-- **Nimble / Nimblebandhu** — Farm and dairy e-commerce concept focused on convenient delivery and eco-friendly packaging.
-- **EcoDairy Direct** — Dairy and snacks delivery concept with a rapid-delivery model.
-- **Farmovate** — Agri-tech innovation project associated with E-Cell R&D.
-- **Smart Accident Response System (SARS)** — Research-based concept for emergency response and safety.
- 
-*Some entries are concepts or works in progress. See individual repositories for implementation details and current status.*
+  
+  
+*this are real world project made for veroius industries and companies*
  
 ## 📊 GitHub Overview
  
