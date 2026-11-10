@@ -81,7 +81,7 @@ I value continuous learning, clean code, teamwork, and building projects that so
 - **VMS001** — Vendor management system for finding out best vendor for present and upcoming project.
   
   
-*this are real world project made for veroius industries and companies*
+*this are real world project made for veroius company.*
  
 ## 📊 GitHub Overview
 <p align="center">
