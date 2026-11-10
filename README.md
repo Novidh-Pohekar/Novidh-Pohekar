@@ -110,10 +110,9 @@ I'm interested in:
 - Hackathons, startup ideas, and SaaS products
 - Early-stage AI/ML and data science projects
  
-📫 **Email:** [sarthknimble@outlook.com](mailto:sarthknimble@outlook.com)  
-💼 **LinkedIn:** [linkedin.com/in/sarthak-nimble1642](https://www.linkedin.com/in/sarthak-nimble1642)  
-📸 **Instagram:** [@sarthak_nimble1642](https://www.instagram.com/sarthak_nimble1642)  
-💻 **GitHub:** [@sarthak-13N](https://github.com/sarthak-13N)
+📫 **Email:** [novidh.pohekar@gmail.com](mailto:novidh.pohekar@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/novidh-pohekar-3b2892226](http://Linkedin.com/in/novidh-pohekar-3b2892226)    
+💻 **GitHub:** [@Novidh-Pohekar](https://github.com/Novidh-Pohekar/Novidh-Pohekar)
  
 ---
  
