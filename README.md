@@ -16,13 +16,13 @@ I enjoy building practical software, learning how systems work, and turning idea
  
 ## 🙋 About Me
  
-- 🎓 MCA student at **MIT World Peace University (MIT-WPU)**.
-- ☕ Focused on **Java, Data Structures and Algorithms, and backend development**.
-- 🛠️ Exploring **Spring Boot, REST APIs, databases, and full-stack development**.
+- 🎓 MBA in Business Analytics at **Indian Institute of Cost and Management Studies & Research's (IndSearch), Pune**.
+- ☕ Focused on **Data Analyst, Business Analyst, Data Scientist, Data Structures and Algorithms, and backend development**.
+- 🛠️ Exploring **AI-ML, Analytics, REST APIs, databases, and full-stack development**.
 - 🔐 Interested in **cybersecurity, secure software design, and system reliability**.
-- 🚀 Founder and team lead of **E-Cell YMC**, with an interest in entrepreneurship and product development.
+- 🚀 team lead of **BluCognition Pvt Ltd**, with an interest in entrepreneurship and product development.
 - 🌱 Currently strengthening my programming fundamentals and exploring **AI/ML and data science**.
-- 🌾 Interested in building technology for **agri-tech, dairy-tech, SaaS, and management platforms**.
+- 🌾 Interested in building technology for **FinTech, HealthTech, Supply Chain & Logistics Tech, Enterprise Software & Digital Transformation, and management platforms**.
  
 I value continuous learning, clean code, teamwork, and building projects that solve real problems.
  
