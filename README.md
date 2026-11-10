@@ -60,21 +60,20 @@ I value continuous learning, clean code, teamwork, and building projects that so
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
  
-**Currently focusing on:** Java fundamentals, DSA, object-oriented programming, REST APIs, SQL, and backend application design.
+**Currently focusing on:** AI-ML, Data Analytics, DSA, object-oriented programming, REST APIs, SQL, and backend application design.
  
 > Technologies listed here reflect my areas of experience and learning. I'm continuously improving through coursework and hands-on projects.
  
 ## 🚀 Projects & Product Ideas
  
-### Software Development
-- **Absensync** — Employee leave management system with a Spring Boot REST API.
-- **Attendosync** — Attendance management solution exploring software and hardware integration.
-- **BookMyEvent** — Event booking platform concept built with Spring Boot.
-- **Quantum Corp** — Company management system concept.
-- **E-Tech** — E-learning platform concept.
+### Project Development
+- **PPS** — Employee Project Priority system for Kirloskar Oil Engine Ltd.
+- **DIMS** — Departmental Inventory management system exploring inventory software and hardware integration.
+- **MakeMyProduct** — built AI-Ml system for finding best product for customer out of 1500 of design configuration.
+- **VMS001** — Vendor management system for finding out best vendor for present and upcoming project.
+- 
  
 ### Agri-tech, Dairy-tech & Innovation
 - **Nimble / Nimblebandhu** — Farm and dairy e-commerce concept focused on convenient delivery and eco-friendly packaging.
