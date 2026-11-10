@@ -8,8 +8,7 @@ I enjoy building practical software, learning how systems work, and turning idea
  
 [![GitHub](https://img.shields.io/badge/GitHub-Connect-0A66C2?style=for-the-badge&logo=github)](https://github.com/Novidh-Pohekar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](http://Linkedin.com/in/novidh-pohekar-3b2892226)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](novidh.pohekar@gmail.com)
- 
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novidh.pohekar@gmail.com) 
 </div>
  
 ---
