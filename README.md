@@ -87,11 +87,11 @@ I value continuous learning, clean code, teamwork, and building projects that so
  
 <div align="center">
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak-13N&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Novidh-Pohekar&show_icons=true&theme=github_dark&hide_border=true)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-13N&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Novidh-Pohekar&layout=compact&theme=github_dark&hide_border=true)
  
-![GitHub Streak](https://streak-stats.demolab.com?user=sarthak-13N&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Novidh-Pohekar&theme=github-dark-blue&hide_border=true)
  
 </div>
  
