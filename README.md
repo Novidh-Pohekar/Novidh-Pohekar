@@ -91,8 +91,8 @@ I value continuous learning, clean code, teamwork, and building projects that so
  
 ## 🎯 Current Goals
  
-- Strengthen Java, OOP, and Data Structures & Algorithms.
-- Build reliable backend applications using Spring Boot and REST APIs.
+- Strengthen Python, OOP, and Data Structures & Algorithms.
+- Build reliable AI-Ml applications using python and REST APIs.
 - Improve database design and SQL skills.
 - Learn secure coding practices and cybersecurity fundamentals.
 - Develop and document projects that demonstrate practical problem-solving.
@@ -100,11 +100,13 @@ I value continuous learning, clean code, teamwork, and building projects that so
 ## 🤝 Let's Connect
  
 I'm interested in:
-- Java and backend / software development opportunities
+- Data Analytics, Data Scientist
+- Artificial Intelligence & Machine Learning
+- Python / software development opportunities
 - Full-stack projects and collaborative learning
 - Cybersecurity and secure software projects
-- Hackathons, startup ideas, and SaaS products
-- Early-stage AI/ML and data science projects
+- Hackathons, startup ideas, and building products
+- AI/ML and data science projects
  
 📫 **Email:** [novidh.pohekar@gmail.com](mailto:novidh.pohekar@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/novidh-pohekar-3b2892226](http://Linkedin.com/in/novidh-pohekar-3b2892226)    
@@ -116,7 +118,7 @@ I'm interested in:
  
 *“Build consistently. Learn continuously. Solve real problems.”*
  
-![Profile Views](https://komarev.com/ghpvc/?username=sarthak-13N&style=flat&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Novidh-Pohekar&style=flat&color=blue)
  
 </div>## Hi there 👋
 
