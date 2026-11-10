@@ -4,7 +4,7 @@
  
 ### Data Analyst | Data Scientist | MBA in Business Analytics
  
-I enjoy building practical software, learning how systems work, and turning ideas into useful products.
+I enjoy working with Analytics, learning how systems work, and turning data into useful solution.
  
 [![GitHub](https://img.shields.io/badge/GitHub-Connect-0A66C2?style=for-the-badge&logo=github)](https://github.com/Novidh-Pohekar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](http://Linkedin.com/in/novidh-pohekar-3b2892226)
